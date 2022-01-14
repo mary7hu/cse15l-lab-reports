@@ -1,5 +1,4 @@
-Lab Report Week 1
-==============
+# Lab Report Week 1
 This blog post is my lab report for CSE 15L Week 1, 2022 winter at UCSD. The main topic for this lab is remote access, so in this lab report I will describe and reflect on the method to access and run programs remotely.
 # Installing VScode
 The first step is to install VScode to the computer. Basically, you can download the VScode from this [website](https://code.visualstudio.com/) and follow the instructions to install it. After installing the VScode, the page opened up should be like:
